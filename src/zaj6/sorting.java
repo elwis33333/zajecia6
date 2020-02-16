@@ -15,6 +15,7 @@ public class sorting {
         }
         int[] table2 = new int[SIZE];
         for (int i = 0; i < SIZE; i++) {
+            //komentarz
             table2[i] = random.nextInt();
         }
         printTab(table);
